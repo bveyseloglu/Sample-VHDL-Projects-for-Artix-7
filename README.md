@@ -39,12 +39,14 @@ The latest eight serial data inputs are shown on LEDs. Furthermore, this design 
 This work is an FSM of a vending machine that has these specifications:
 * An item is selected with two switches. Possible items and their costs are given in table below.
 
+<p align="center"> 
 | Item      | Price |
 |-----------|-------|
 | Water     | 1     |
 | Chocolate | 2     |
 | Coke      | 3     |
 | Cookies   | 4     |
+</p>
 
 * When an item is selected, it should be notified by the request button.
 * The machine accepts only 1 TL. Depositing 1 TL is signaled by asserting one_tl input.
