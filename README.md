@@ -46,7 +46,7 @@ This work is an FSM of a vending machine that has these specifications:
 | Coke      | 3     |
 | Cookies   | 4     |
 
-* When an item is selected, it should be notified by the request button.
+* When an item is selected, design should be notified by the request button.
 * The machine accepts only 1 TL. Depositing 1 TL is signaled by asserting one_tl input.
 * After money is deposited, the machine waits for 1 second to calculate the total money.
 * If the total money is enough to buy the corresponding item, one of the LEDs is turned on. Otherwise, the machine waits for the next 1 TL.
