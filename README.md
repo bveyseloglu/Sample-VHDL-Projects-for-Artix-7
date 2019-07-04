@@ -5,7 +5,7 @@ My laboratory work from Digital Systems II course.
 Only .vhd files are under MIT license.
 
 ## Project Descriptions
-### 1. Combinational Circuit (An Arbitrary Example)
+### 1. Combinational Circuit
 A combinational circuit with different concurrent signal assignment techniques. VDHL description of this truth table given below.
 
 <p align="center"> 
