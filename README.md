@@ -1,9 +1,6 @@
 ## Sample-VHDL-Projects-for-Artix-7
 My laboratory work from Digital Systems II course.
 
-## License
-Only .vhd files are under MIT license.
-
 ## Project Descriptions
 ### 1. Combinational Circuit
 A combinational circuit with different concurrent signal assignment techniques. VDHL description of this truth table given below.
@@ -57,4 +54,10 @@ This circuit can perform the integer division based on the long division method 
 
 <p align="center"> 
   <img src="https://dl.dropboxusercontent.com/s/5s4wzyhsg5wugsh/divider.png">
+</p>
+
+The ASMD chart of the design is shown below:
+
+<p align="center"> 
+  <img src="https://dl.dropboxusercontent.com/s/d92vm6mm0frljhk/asmd.png">
 </p>
