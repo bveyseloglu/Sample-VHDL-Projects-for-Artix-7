@@ -38,12 +38,14 @@ The latest eight serial data inputs are shown on LEDs. Furthermore, this design 
 ### 6. Finite State Machine - Vending Machine
 This work is an FSM of a vending machine that has these specifications:
 * An item is selected with two switches. Possible items and their costs are given in table below.
+
 | Item      | Price |
 |-----------|-------|
 | Water     | 1     |
 | Chocolate | 2     |
 | Coke      | 3     |
 | Cookies   | 4     |
+
 * When an item is selected, it should be notified by the request button.
 * The machine accepts only 1 TL. Depositing 1 TL is signaled by asserting one_tl input.
 * After money is deposited, the machine waits for 1 second to calculate the total money.
