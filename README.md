@@ -8,6 +8,10 @@ Only .vhd files are under MIT license.
 ### 1. Combinational Circuit (An Arbitrary Example)
 A combinational circuit with different concurrent signal assignment techniques. VDHL description of this truth table given below.
 
+<p align="center"> 
+  <img src="https://dl.dropboxusercontent.com/s/ksgjdm3oew0nklw/TruthTable.PNG">
+</p>
+
 ![alt text](https://dl.dropboxusercontent.com/s/ksgjdm3oew0nklw/TruthTable.PNG)
 
 ### 2. 4-bit ALU
@@ -15,7 +19,9 @@ An Arithmetic and Logic Unit (ALU) is a combinational circuit that performs logi
 
 The block diagram and the truth table for the ALU are shown below.
 
-![alt text](https://dl.dropboxusercontent.com/s/cl5yxw5zzegb3ys/ALU.png)
+<p align="center"> 
+  <img src="https://dl.dropboxusercontent.com/s/cl5yxw5zzegb3ys/ALU.png">
+</p>
 
 ### 3. Sequential Design - Digital Clock
 A 32-bit up_down counter with a synchronous reset and an enable input. In up mode, counter will count up to until "upperlimit" and then reset to zero. In down mode, counter will count down to zero and then reset to "upperlimit".
@@ -23,7 +29,9 @@ A 32-bit up_down counter with a synchronous reset and an enable input. In up mod
 ### 4. Sequential Design - Rotating Squares
 This project implements the rotating squares on seven segments as shown in this figure:
 
-![alt text](https://dl.dropboxusercontent.com/s/tr9v1q015tcgth0/RotatingSquares.png)
+<p align="center"> 
+  <img src="https://dl.dropboxusercontent.com/s/tr9v1q015tcgth0/RotatingSquares.png">
+</p>
 
 ### 5. Finite State Machine - Sequence Detector (1101)
 ### 6. Finite State Machine - Vending Machine
