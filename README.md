@@ -1,5 +1,5 @@
 ## Sample-VHDL-Projects-for-Artix-7
-My laboratory work from Digital Systems II course.
+Includes 4-bit ALU, sequential design examples, and finite state machine examples. These are the compilation of my laboratory work from Digital Systems II course.
 
 ## Project Descriptions
 ### 1. Combinational Circuit
