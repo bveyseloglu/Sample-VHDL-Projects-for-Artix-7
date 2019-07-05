@@ -61,3 +61,6 @@ The ASMD chart of the design is shown below:
 <p align="center"> 
   <img src="https://dl.dropboxusercontent.com/s/d92vm6mm0frljhk/asmd.png">
 </p>
+
+## License
+Licensed under MIT License.
